@@ -1,2 +1,2 @@
 # skibidi
-skibidi is a compiled esolang written in Rust
+skibidi is an esolang written in Rust
